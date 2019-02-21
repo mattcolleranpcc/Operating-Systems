@@ -2,3 +2,9 @@ Operating System Function #1
 One operating system function is security. 
 The operating system can allow you to set passwords to prevent other people from accessing your device. 
 It can also prvent certain programs from accessing your data/other programs when it shouldn't have the authorization to.
+
+Operating System Function #2
+Another operating system function is managing system performance.
+Your operating system can monitor and control the overall health of a system to improve its performance.
+If something is not behaving the way that it is supposed to, the OS can notify you about it and help you troubleshoot/fix it.
+It can also do things like detect your battery life or tell you whether or not you're connected to the internet.
