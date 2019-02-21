@@ -1,0 +1,4 @@
+Operating System Function #1
+One operating system function is security. 
+The operating system can allow you to set passwords to prevent other people from accessing your device. 
+It can also prvent certain programs from accessing your data/other programs when it shouldn't have the authorization to.
